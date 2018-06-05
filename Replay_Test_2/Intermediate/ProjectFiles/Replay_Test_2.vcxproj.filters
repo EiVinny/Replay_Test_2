@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Replay_Test_2.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{06265798-EBF2-40CA-98B5-6B9C9E97183F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Replay_Test_2.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Replay_Test_2Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{B94004C1-592F-4673-B70B-2B5E96CF757A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Replay_Test_2">
+			<UniqueIdentifier>{4BD8C054-C088-4606-B5CB-DD8A136E6521}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Replay_Test_2\Replay_Test_2.Build.cs">
+			<Filter>Source\Replay_Test_2</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Replay_Test_2\Replay_Test_2.cpp">
+			<Filter>Source\Replay_Test_2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Replay_Test_2\Replay_Test_2.h">
+			<Filter>Source\Replay_Test_2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Replay_Test_2\Replay_Test_2Character.cpp">
+			<Filter>Source\Replay_Test_2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Replay_Test_2\Replay_Test_2Character.h">
+			<Filter>Source\Replay_Test_2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Replay_Test_2\Replay_Test_2GameMode.cpp">
+			<Filter>Source\Replay_Test_2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Replay_Test_2\Replay_Test_2GameMode.h">
+			<Filter>Source\Replay_Test_2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Replay_Test_2\Replay_Test_2HUD.cpp">
+			<Filter>Source\Replay_Test_2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Replay_Test_2\Replay_Test_2HUD.h">
+			<Filter>Source\Replay_Test_2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Replay_Test_2\Replay_Test_2Projectile.cpp">
+			<Filter>Source\Replay_Test_2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Replay_Test_2\Replay_Test_2Projectile.h">
+			<Filter>Source\Replay_Test_2</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

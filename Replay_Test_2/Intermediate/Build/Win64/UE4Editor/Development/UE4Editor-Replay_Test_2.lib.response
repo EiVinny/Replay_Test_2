@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Replay_Test_2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Vinicius Oliveira\Git\Replay_Test_2\Replay_Test_2\Intermediate\Build\Win64\UE4Editor\Development\Replay_Test_2\Replay_Test_2.cpp.obj"
+"D:\Vinicius Oliveira\Git\Replay_Test_2\Replay_Test_2\Intermediate\Build\Win64\UE4Editor\Development\Replay_Test_2\Replay_Test_2Character.cpp.obj"
+"D:\Vinicius Oliveira\Git\Replay_Test_2\Replay_Test_2\Intermediate\Build\Win64\UE4Editor\Development\Replay_Test_2\Replay_Test_2GameMode.cpp.obj"
+"D:\Vinicius Oliveira\Git\Replay_Test_2\Replay_Test_2\Intermediate\Build\Win64\UE4Editor\Development\Replay_Test_2\Replay_Test_2HUD.cpp.obj"
+"D:\Vinicius Oliveira\Git\Replay_Test_2\Replay_Test_2\Intermediate\Build\Win64\UE4Editor\Development\Replay_Test_2\Replay_Test_2Projectile.cpp.obj"
+"D:\Vinicius Oliveira\Git\Replay_Test_2\Replay_Test_2\Intermediate\Build\Win64\UE4Editor\Development\Replay_Test_2\Replay_Test_2.init.gen.cpp.obj"
+"D:\Vinicius Oliveira\Git\Replay_Test_2\Replay_Test_2\Intermediate\Build\Win64\UE4Editor\Development\Replay_Test_2\Replay_Test_2Character.gen.cpp.obj"
+"D:\Vinicius Oliveira\Git\Replay_Test_2\Replay_Test_2\Intermediate\Build\Win64\UE4Editor\Development\Replay_Test_2\Replay_Test_2GameMode.gen.cpp.obj"
+"D:\Vinicius Oliveira\Git\Replay_Test_2\Replay_Test_2\Intermediate\Build\Win64\UE4Editor\Development\Replay_Test_2\Replay_Test_2HUD.gen.cpp.obj"
+"D:\Vinicius Oliveira\Git\Replay_Test_2\Replay_Test_2\Intermediate\Build\Win64\UE4Editor\Development\Replay_Test_2\Replay_Test_2Projectile.gen.cpp.obj"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Replay_Test_2\PCLaunch.rc.res"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Vinicius Oliveira\Git\Replay_Test_2\Replay_Test_2\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Replay_Test_2.lib"
